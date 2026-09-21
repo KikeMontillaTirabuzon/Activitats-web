@@ -1,0 +1,37 @@
+.bg-crimson {
+    background-color: crimson;
+}
+
+.bg-morado {
+    background-color: rgb(235, 129, 235);
+}
+
+.bg-azul {
+    background-color: rgb(79, 79, 244);
+}
+
+.bg-amarillo {
+    background-color: rgb(255, 255, 126);
+}
+
+.bg-verde {
+    background-color: rgb(106, 233, 106);
+}
+
+.bg-naranja {
+    background-color: rgb(252, 198, 98);
+}
+
+.bg-rosa {
+    background-color: rgb(255, 182, 193);
+}
+
+.bg-gris {
+    background-color: rgb(192, 192, 192);
+}
+
+.bg-amarillo-oscuro {
+    background-color: rgb(255, 204, 0);
+}
+
+
